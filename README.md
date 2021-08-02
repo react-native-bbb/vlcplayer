@@ -1,1 +1,1 @@
-# react-native-vlcplayer
+# vlcplayer
